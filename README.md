@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋 My name is Lin
+🌱 I’m currently learning Font End</br>
+💬 Feel free to leave the comment on my post. I would love to learn </br>
+⚡ Fun fact: i can kiss my elbow!</br>
+💕 You can come check out my linkedin (https://www.linkedin.com/in/dieu-linh-do-55527732a/)</br>
+🤞 My Behance (https://www.behance.net/dolinh9/projects)</br>
 <!--
 **dieulinDo/dieulinDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
